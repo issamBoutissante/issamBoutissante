@@ -1,4 +1,4 @@
-![Profile Banner](assets/profileImage.png)
+![Profile Banner](assets/Issam-Banner2.png)
 
 ## Hi there 👋
 
