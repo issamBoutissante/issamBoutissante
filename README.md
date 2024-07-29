@@ -6,7 +6,7 @@ I'm **Issam Boutissante**, an IT Engineer and Full Stack .NET Developer with ove
 
 ### 💼 Professional Experience
 
-- **Visiativ (03/2024 – Present)**
+- **Visiativ (03/2024 – 07/2024)**
 
   - Designed and implemented Single Sign-On (SSO) infrastructure.
   - Developed Windows shell extensions with .NET Core.
